@@ -1,1 +1,1 @@
-# odin-recipes
+This first solo project is to create HTML only based website to test my understanding of HTML that i have learned so far from The Odin Project
